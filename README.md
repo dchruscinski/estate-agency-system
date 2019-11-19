@@ -1,11 +1,15 @@
-### estate-agency-system
+# Estate agency system
 
 It's repository with designed estate-agency database.
 
-.Database is created with
+## Database
+
+Database is created with:
 - MS SQL 2017
 
-.Repository contains:
+## Content
+
+Repository contains:
 - Chen's notation
 - Barker's notation
 - UML notation
