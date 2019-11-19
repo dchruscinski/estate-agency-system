@@ -1,0 +1,16 @@
+﻿id;imie;nazwisko;plec;id_adresu;dataUrodzenia;email;telefon
+1;Edyta;Nowak;0;16;1983-04-17;EdytaNowak@dayrep.com;602485217
+2;Jan;Jaworski;1;17;1957-02-07;JanekJaworski@teleworm.us;671819516
+3;Przemysław;Dąbrowski;1;18;1976-07-14;NULL;876230543
+4;Izolda;Pawlak;0;19;1991-06-09;IzoldaPawlak@teleworm.us;723122262
+5;Leokadia;Król;0;20;1986-10-06;NULL;726339614
+6;Jacenty;Adamczyk;1;21;1969-03-18;JacentyAdamczyk@dayrep.pl;536940689
+7;Mirosław;Chmielewski;1;22;1971-11-01;MiroslawChmielewski@teleworm.us;602450279
+8;Bożena;Sobczak;0;23;1974-11-26;NULL;536010082
+9;Piotr;Król;1;24;1970-02-23;PiotrKrol@wp.pl;783444345
+10;Zoja;Nowak,;0;25;1982-05-02;ZojaNowak@o2.pl;723306031
+11;Kajetan;Piotrowicz;1;26;1977-07-29;NULL;889943310
+12;Alojzy;Wysocki;1;27;1956-03-12;AlojzyWysocki@gmail.com;693392188
+13;Małgorzata;Grabowska;0;28;1967-05-02;MalgorzataGrabowska@interia.pl;781922307
+14;Urszula;Polakiewicz;0;29;1990-01-15;NULL;695199022
+15;Paweł;Rower;1;30;1982-12-13;PawelRower@wp.pl;699355786
